@@ -5,9 +5,9 @@ type: garden
 title: House of the Mithra
 latlon: [ 37.487748, -4.459183 ]
 author:
-contributor: Lai Ching Tsui
+contributor: Lai Ching Tsui, Stanley Ojibeka
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2025-11-11
 draft: true
 ---
 
